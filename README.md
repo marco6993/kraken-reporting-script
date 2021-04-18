@@ -13,7 +13,7 @@ This is just a proposal, once you get the notbook running, feel free to use the 
 
 ## Authentification
 
-The `kraken.key` is the API key that you will generate from the Kraken UI, I added an example in the repository: private and secret required.
+The `kraken.key` is the API key that you will generate from the Kraken UI, I added an example in the repository: key and secret required.
 
 The `google-api-credentials.json` will be needed if you want to connect to the Google Sheets through Google API (see guide above).
 
