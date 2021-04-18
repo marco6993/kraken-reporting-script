@@ -9,7 +9,7 @@ In this repo, you can find a Python notebook to create some basic crypto portfol
 - Push structured data to GSheets using Google API (please follow [this guide](https://towardsdatascience.com/how-to-integrate-google-sheets-and-jupyter-notebooks-c469309aacea) to connect Jupyter with Google Sheets with Google API)
 - Once the data is in Google Sheets, I visualised the required insights in Data Studio
 
-This is just a proposal, once you get the notbook running, feel free to use the data as you like: direct visualisaiton in the notebook, send to any ottehr DB.
+This is just a proposal, once you get the notbook running, feel free to use the data as you like: direct visualisation in the notebook, send to any ottehr DB...
 
 ## Authentification
 
